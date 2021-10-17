@@ -1,0 +1,24 @@
+To create a new empty project.
+# Setup env
+## open platformio Home
+## select `New project` -> `Node MCU 1.0` -> `Anrdoid` -> specify location
+
+## explore files in the directory
+
+
+## plug device into USB & USB into your laptop
+
+
+## upload firmware on devide:
+    * click on PlatformIO icon (left side)
+    * `Build` & check results on terminal
+    * `Upload`:
+        * error `PermissionError: [Errno 13] Permission denied: '/dev/ttyUSB0`
+        * fix: https://askubuntu.com/a/210230/778247 & 'newgrp dialout' & reboot
+
+## Add prints into the loop
+## Add default LED control
+## Modify LED logic
+
+# Add button
+https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button
