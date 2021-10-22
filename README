@@ -1,0 +1,8 @@
+Підбірка програм в рамках курсу «Робота з мікроконтролерами» для студентів АМП ЛНАМ.
+
+Необхідно підготувати для програмування МК:
+- Шнур Micro-USB - USB-Type A
+- Ноутбук
+- Встановити Visual Studio Code, https://code.visualstudio.com
+- Встановити Platformio (розширення до Visual Studio Code), https://marketplace.visualstudio.com/...
+- Плата NodeMCU
