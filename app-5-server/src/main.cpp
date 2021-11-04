@@ -9,7 +9,7 @@
 // const char *password = "quertyui";  // replace with your Password
 
 const char *ssid = "Hatka";  // replace with your SSID
-const char *password = "v220294v";  // replace with your Password
+const char *password = "***";  // replace with your Password
 
 const uint8_t servoPin = D4;  // replace with servo pin
 /* Create Servo Object */
