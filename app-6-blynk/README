@@ -2,6 +2,13 @@
 - контроль серво
 - керування світлодіодом
 
+Необдіхно:
+- акаунт https://blynk.io/
+- Додаток на телефон Blynk IoT
+- Плата NodeMCU
+
+Цікава інструкція: https://shoorik007.github.io/
+
 To create a new empty project.
 # Setup env
 ## open platformio Home
