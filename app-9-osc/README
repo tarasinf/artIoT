@@ -2,10 +2,17 @@
 
 Для роботи необхідно змінити:
 * ssid та password до WiFi мережі
+
+Для надсилання:
 * outIp
 * outPort
 * msg("/vvvv")
 
+Для отримування:
+* localPort
+
+
+В основі використання бібліотеки: https://github.com/CNMAT/OSC (з багатьма прикладами)
 
 
 ## plug device into USB & USB into your laptop
