@@ -1,0 +1,23 @@
+## Приклад програми роботи з OSC протоколом (комунікація з VVVV).
+
+Для роботи необхідно змінити:
+* ssid та password до WiFi мережі
+* outIp
+* outPort
+* msg("/vvvv")
+
+
+
+## plug device into USB & USB into your laptop
+
+
+## upload firmware on devide:
+    * click on PlatformIO icon (left side)
+    * `Build` & check results on terminal
+    * `Upload`:
+        * error `PermissionError: [Errno 13] Permission denied: '/dev/ttyUSB0`
+        * fix: https://askubuntu.com/a/210230/778247 & 'newgrp dialout' & reboot
+
+    * `Build Filesystem Image`
+    * `Upload Filesystem Image`
+
